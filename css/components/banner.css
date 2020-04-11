@@ -1,0 +1,50 @@
+.banner {
+  margin: 0;
+  background-size: cover;
+  background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url("https://wpfdm.fdmanagement.fr/wp-content/uploads/2019/10/CONSEIL-ORGANISATION.jpeg");
+  background-position: center;
+  padding: 200px 0;
+  opacity: 0.9;
+  height: 150px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.banner h2 {
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  color: white;
+}
+
+.banner p {
+  font-size: 20px;
+  font-weight: lighter;
+  text-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  color: white;
+  margin-bottom: 50px;
+}
+
+.banner a {
+  opacity: 0.8;
+  padding-top: 25px;
+  background-color: #4cd3c2;
+  padding: 15px 25px;
+  font-weight: bold;
+  color: white;
+  border-radius: 25px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.banner a:hover {
+  background-color: #4cd3c2;
+  opacity: 1;
+}
+
+.banner div {
+  display: block;
+}
+

@@ -1,0 +1,31 @@
+.cards {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  width: 200px;
+  padding: 25px;
+  text-align: center;
+  border: 1px solid #999999;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+
+.card h2 {
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.card p {
+  color: #999999;
+  font-weight: lighter;
+  font-size: 14px;
+}
+
+.card img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+}
